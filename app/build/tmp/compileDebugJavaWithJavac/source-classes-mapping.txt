@@ -1,0 +1,7 @@
+com/example/guessthenumber/BuildConfig.java
+ com.example.guessthenumber.BuildConfig
+com/example/guessthenumber/MainActivity.java
+ com.example.guessthenumber.MainActivity
+ com.example.guessthenumber.MainActivity$1
+ com.example.guessthenumber.MainActivity$1$1
+ com.example.guessthenumber.MainActivity$1$2
