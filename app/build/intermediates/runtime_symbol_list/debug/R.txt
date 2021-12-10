@@ -2013,6 +2013,7 @@ int id fixed 0x7f0800ba
 int id flip 0x7f0800bb
 int id floating 0x7f0800bc
 int id forever 0x7f0800bd
+int id foto 0x7f0801e0
 int id fragment_container_view_tag 0x7f0800be
 int id frost 0x7f0800bf
 int id ghost_view 0x7f0800c0
@@ -2040,6 +2041,8 @@ int id image 0x7f0800d5
 int id immediateStop 0x7f0800d6
 int id included 0x7f0800d7
 int id info 0x7f0800d8
+int id intents 0x7f0801d9
+int id intntents_text 0x7f0801e1
 int id invisible 0x7f0800d9
 int id inward 0x7f0800da
 int id italic 0x7f0800db
@@ -2056,6 +2059,7 @@ int id line3 0x7f0800e5
 int id linear 0x7f0800e6
 int id listMode 0x7f0800e7
 int id list_item 0x7f0800e8
+int id list_ranking 0x7f0801da
 int id masked 0x7f0800e9
 int id match_constraint 0x7f0800ea
 int id match_parent 0x7f0800eb
@@ -2112,6 +2116,8 @@ int id mtrl_picker_text_input_range_start 0x7f08011d
 int id mtrl_picker_title_text 0x7f08011e
 int id mtrl_view_tag_bottom_padding 0x7f08011f
 int id multiply 0x7f080120
+int id name 0x7f0801db
+int id name_text 0x7f0801e2
 int id navigation_bar_item_icon_view 0x7f080121
 int id navigation_bar_item_labels_group 0x7f080122
 int id navigation_bar_item_large_label_view 0x7f080123
@@ -2150,6 +2156,7 @@ int id postLayout 0x7f080143
 int id progress_circular 0x7f080144
 int id progress_horizontal 0x7f080145
 int id radio 0x7f080146
+int id ranking_text 0x7f0801e3
 int id ratio 0x7f080147
 int id rectangles 0x7f080148
 int id reverseSawtooth 0x7f080149
@@ -2245,7 +2252,6 @@ int id textSpacerNoButtons 0x7f0801a2
 int id textSpacerNoTitle 0x7f0801a3
 int id textStart 0x7f0801a4
 int id textTop 0x7f0801a5
-int id textView 0x7f0801a6
 int id text_input_end_icon 0x7f0801a7
 int id text_input_error_icon 0x7f0801a8
 int id text_input_start_icon 0x7f0801a9
@@ -2362,6 +2368,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
+int layout activity_ranking 0x7f0b0071
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f
@@ -2378,6 +2385,7 @@ int layout design_navigation_menu 0x7f0b0029
 int layout design_navigation_menu_item 0x7f0b002a
 int layout design_text_input_end_icon 0x7f0b002b
 int layout design_text_input_start_icon 0x7f0b002c
+int layout list 0x7f0b0072
 int layout material_chip_input_combo 0x7f0b002d
 int layout material_clock_display 0x7f0b002e
 int layout material_clock_display_divider 0x7f0b002f
@@ -5163,6 +5171,7 @@ int styleable ViewTransition_upDuration 13
 int styleable ViewTransition_viewTransitionMode 14
 int[] styleable include { 0x7f0300e3 }
 int styleable include_constraintSet 0
+int xml file_paths 0x7f110005
 int xml standalone_badge 0x7f110000
 int xml standalone_badge_gravity_bottom_end 0x7f110001
 int xml standalone_badge_gravity_bottom_start 0x7f110002

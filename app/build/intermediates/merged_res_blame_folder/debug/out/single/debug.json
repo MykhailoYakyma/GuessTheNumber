@@ -16,6 +16,18 @@
         "source": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ranking.xml.flat",
+        "source": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\src\\main\\res\\layout\\activity_ranking.xml"
+    },
+    {
+        "merged": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\build\\intermediates\\merged_res\\debug\\layout_list.xml.flat",
+        "source": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\build\\intermediates\\merged_res\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
         "merged": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\mexay\\AndroidStudioProjects\\GuessTheNumber\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },

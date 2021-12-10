@@ -3,5 +3,9 @@ com/example/guessthenumber/BuildConfig.java
 com/example/guessthenumber/MainActivity.java
  com.example.guessthenumber.MainActivity
  com.example.guessthenumber.MainActivity$1
- com.example.guessthenumber.MainActivity$1$1
- com.example.guessthenumber.MainActivity$1$2
+ com.example.guessthenumber.MainActivity$2
+com/example/guessthenumber/RankingActivity.java
+ com.example.guessthenumber.RankingActivity
+ com.example.guessthenumber.RankingActivity$1
+ com.example.guessthenumber.RankingActivity$Field
+ com.example.guessthenumber.RankingActivity$UserNameComparator

@@ -2014,6 +2014,7 @@ id fixed
 id flip
 id floating
 id forever
+id foto
 id fragment_container_view_tag
 id frost
 id ghost_view
@@ -2041,6 +2042,8 @@ id image
 id immediateStop
 id included
 id info
+id intents
+id intntents_text
 id invisible
 id inward
 id italic
@@ -2057,6 +2060,7 @@ id line3
 id linear
 id listMode
 id list_item
+id list_ranking
 id masked
 id match_constraint
 id match_parent
@@ -2113,6 +2117,8 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
+id name_text
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2151,6 +2157,7 @@ id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id ranking_text
 id ratio
 id rectangles
 id reverseSawtooth
@@ -2246,7 +2253,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2363,6 +2369,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_ranking
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2379,6 +2386,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout list
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -3420,6 +3428,7 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
+xml file_paths
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end
 xml standalone_badge_gravity_bottom_start
